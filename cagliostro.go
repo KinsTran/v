@@ -8,6 +8,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
+// TODO: ADD FUNCTIONALITY FOR NEW JOINERS TO DURECT THEM TO RULES CHANNEL
+
 // Cagliostro is the main struct that wraps all the data required by
 // the bot.
 type Cagliostro struct {
